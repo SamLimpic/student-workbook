@@ -38,7 +38,7 @@ Cascading Style Sheets
 ```
 <!-- enter you answer in the space below -->
 ```
-
+Selector, Property, and Value
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
@@ -56,17 +56,19 @@ font-weight
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+<ul> </ul> unordered list
+<ol> </ol> ordered list
+<dl> </dl> description list
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+Makes your container present as a flex container
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+height, width, and padding
 ```
