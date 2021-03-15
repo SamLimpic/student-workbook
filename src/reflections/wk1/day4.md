@@ -1,4 +1,4 @@
-# Day 4 - WIRE-FRAMING, DESIGN TOOLS AND REVIEW
+# Day 4 - Wire-Framing, Design Tool, and Review
 
 ## Daily Journal
 
