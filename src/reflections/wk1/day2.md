@@ -4,6 +4,12 @@
 
 Today was focused on CSS fundamentals.  We began the course with the Bento CSS challenge from Udemy before beginning a breakdown of basic HTML body tags.  Using this lesson as a base, we mocked up a resume using CSS Flexbox to modify the layout appropriately until Lunch.  After lunch, we focused on our Daily Challenge, which was similar in concept to the Resume mockup, but without immediate direction from the instructor.  After a few hours of design, I was able to make an approximate mockup of the template image.  Once concluded, I began another Udemy course on Bootstrap, which is clearly superior to raw CSS in every conceivable way!
 
+## Daily Challenges
+
+Morning: https://github.com/SamLimpic/resume
+
+Afternoon: https://github.com/SamLimpic/cool-site
+
 ### Read Building Blocks Of Web Development > *CSS*
 
 1. What is a Pseudo-Class and what are some of the most common ones you think you will use
