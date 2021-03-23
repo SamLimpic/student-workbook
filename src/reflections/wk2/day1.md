@@ -1,13 +1,17 @@
 # Day 1 - INTRO TO JAVASCRIPT
 
 ## Daily Journal
+And we've arrived at Javascript!
 
+I am unironically excited, as Javascript is by far the most engaging language I've experienced so far.  It is the first language I've really felt capable of achieving legitimate products with, and using it as a problem solving tool is incredibly satisfying.
+We went over most of the basics today, including Switch statements.  And I actually understood Switch statements for the first time!  While working though my own independent study, Switch statements always eluded me, and I couldn't quite determine how to make them suit my needs.
+Turns out, after listening to a thorough explanation, I incorporated a Switch statement into one of my independent projects and solved a problem I'd been struggling with for weeks!  Huzzah!
 
 ## Daily Challenges
 
 Morning: 
 
-Afternoon: 
+Afternoon: https://github.com/SamLimpic/js-tests-basics
 
 ### Read *Intro to Javascript > var, let, and const*
 

@@ -1,13 +1,17 @@
 # Day 2 - JAVASCRIPT FUNCTIONS, OBJECTS, AND LOOPS
 
 ## Daily Journal
-
+Loops!
+All the loops!
+Loops on loops, loops in loops, loops from loops!
+When I got here I had a for loop figured out pretty well.  I used it for basically anything requiring iteration, and never really bothered with its specific variations.  But, after today's challenge it's incredibly clear to me how useful those variations are.  Not only do they simplify your code in the line, they also implicitly tell the user what they are meant to accomplish, without the user having to delve inside every for loop on your page to dig out its true purpose.
+After today's excercise, I can think of a number of independent projects that I ought to revise with an appropriately specific loop, rather than spreading generic for loops across all my code.
 
 ## Daily Challenges
 
 Morning: 
 
-Afternoon: 
+Afternoon: https://github.com/SamLimpic/js-tests-loops-and-arrays
 
 ### Read *Functions, Objects, and Control Flow*
 
