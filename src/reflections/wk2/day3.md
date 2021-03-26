@@ -2,12 +2,20 @@
 
 ## Daily Journal
 
+I really find this aspect of Javascript to be really interesting.  It's cool to be able to dynamically generate HTML aspects on the page based on variables, and it allows a page a lot of leeway in design.  There are plenty of projects I've worked on that utilize dynamically generated HTML to a point, but this lesson really helped me see how far that concept can be pushed to facilitate a lot of functionality.  The idea of utilizing backticks to directly interpolate and reference variables has a lot of application that I can see being very useful in most any project I will be working on, and I intend to make use of it as much as possible to reduce the amount of hard HTML that must go into any page.
 
 ## Daily Challenges
 
-Morning: 
+Morning:
+function evenOrOdd() {
+    if (num % 2 == 0) {
+        console.log("even")
+    }   else {
+        console.log("odd")
+    }
+}
 
-Afternoon: 
+Afternoon: https://github.com/SamLimpic/super-fight
 
 ### Read *Intro to JS > Chrome Developer Tools*
 

@@ -2,12 +2,13 @@
 
 ## Daily Journal
 
+Intervals have so much potential application in dynamic web design!  This is yet another moment where I feel like I need to rewrite entire sections of older projects to incorporate them.  There are games where an appropriately-placed interval can vastly improve the layout of a function, and reduce the amount of hard Javascript I would need to code in any web page.
 
 ## Daily Challenges
 
 Morning: 
 
-Afternoon: 
+Afternoon: (Branched project from Lane's GitHub) https://github.com/lanericharddavis/slapGame
 
 ### Read *Intro to JS > The Mistakes I Made as a Beginner Programmer*
 
