@@ -1,4 +1,4 @@
-# Day 1 - ENCAPSULATION
+# Day 2 - ENCAPSULATION
 
 ## Daily Journal
 
