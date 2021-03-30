@@ -9,7 +9,7 @@ Obviously, that relies heavily on "onclick" functions, which I understand can ca
 
 Morning: Checkpoint II Review: https://github.com/SamLimpic/dungeon-miner
 
-Afternoon: 
+Afternoon: https://github.com/SamLimpic/zoo-keeper
 
 ### Read *Advancing with JS > ES6 modules*
 
