@@ -8,7 +8,7 @@
 Morning: 
 function isPalindrome(str) {
 let noSpace = (str.split(" ").join("")).toLowerCase()
-for(let i = 0; i < noSpace.length; i++) {
+for(let i = 0; i < Math.floor(noSpace.length / 2); i++) {
   if (noSpace[i] == noSpace[noSpace.length-(i+1)]) {
   } else {
     return false
