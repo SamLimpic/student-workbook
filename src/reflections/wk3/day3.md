@@ -18,7 +18,7 @@ return true
 }
 isPalindrome("aibohphobia")
 
-Afternoon: 
+Afternoon: https://github.com/SamLimpic/grugs-list
 
 ### Read *Advancing with JS > An Intro to Javascript Proxy Objects*
 

@@ -7,7 +7,7 @@
 
 Morning: 
 
-Afternoon: 
+Afternoon: (partner github) https://github.com/davidparker83686/sporting_goods
 
 ### Read *Advancing with JS > The Observer Pattern*
 
