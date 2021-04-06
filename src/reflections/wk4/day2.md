@@ -6,6 +6,23 @@
 ## Daily Challenges
 
 Morning: 
+```js
+function mostCommonLetter(str) {
+    let letters = {}
+    let max = 0
+    let mostCommon = ''
+    for(let i = 0; i < str.length; i++) {
+        let char = str[i]
+        letters[char] = letters[char] || 0
+        letters[char]++
+        if(letters[char] > max) {
+            max = letters[char]
+            mostCommon = char
+        }
+    }
+    return mostCommon
+}
+```
 
 Afternoon: 
 

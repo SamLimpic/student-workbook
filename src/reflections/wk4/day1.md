@@ -1,13 +1,17 @@
 # Day 1 - INTRO TO ASYNCHRONOUS CODE
 
 ## Daily Journal
+I have been waiting for this for ages and I didn't even realize it!
 
+I've heard about calling to servers to get information, but I had no idea how the technical process was achieved.  But utilizing APIs makes a lot of sense.  There have been plenty of projects I've worked on where I've simply hard-coded information that I knew was readily available, because I had no idea how to get that data in a usable form dynamically.
+
+Turns out, the DnD 5e Players Handbook exists as an entire API, and the me of 2 months ago cries in frustration as I look at the hard-coded classlist that currently takes up 300 lines of Javascript in an old project...
 
 ## Daily Challenges
 
 Morning: Checkpoint II Review: 
 
-Afternoon: 
+Afternoon: https://github.com/SamLimpic/bad-trivia
 
 ### Read *Asynchronous Code > Callback Hell*
 
