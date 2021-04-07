@@ -8,6 +8,9 @@ I still can't get over how easy it is to just... get all of it.
 I spent so much time hard coding data, knowing the entire time that there was a better method that I simply didn't know how to do...  I feel like the Internet has been invented all over again!  I've been snooping around and have found the DnD 5e API, which contains every race / class breakdown in the book, as well as spells, backgrounds, and equipment!
 
 I feel a scheme coming on...
+Seems like it wouldn't be terribly difficult to implement that API into a character-building app...
+I've actually had this idea for a while but was unsure how to deal with the massive amount of data I'd need to make it function properly...  I think that's handled now.
+
 
 ## Daily Challenges
 
