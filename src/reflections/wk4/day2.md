@@ -1,7 +1,13 @@
 # Day 2 - HTTP REQUESTS CONTINUED
 
 ## Daily Journal
+Oh I like APIs...
 
+I still can't get over how easy it is to just... get all of it.
+
+I spent so much time hard coding data, knowing the entire time that there was a better method that I simply didn't know how to do...  I feel like the Internet has been invented all over again!  I've been snooping around and have found the DnD 5e API, which contains every race / class breakdown in the book, as well as spells, backgrounds, and equipment!
+
+I feel a scheme coming on...
 
 ## Daily Challenges
 

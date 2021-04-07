@@ -6,6 +6,23 @@
 ## Daily Challenges
 
 Morning: 
+``` JS
+function factorize(n) {
+  let factorArr = []
+  for (let i = 1; i <= n; i++) {
+  if (n % i == 0) {
+    factorArr.push(i)
+  }
+  }
+  if (factorArr.length == 2) {
+    return "Prime Number"
+  } else {
+    return factorArr
+  }
+}
+
+factorize(16)
+```
 
 Afternoon: 
 
