@@ -6,6 +6,18 @@
 ## Daily Challenges
 
 Morning: 
+``` JS
+function timeConvert(time) {
+  if (time < 60) {
+    return time + " Minutes"
+  } else {
+    let hours = Math.floor(time / 60)
+    let minutes = time - (hours * 60)
+    return hours + " Hours: " + minutes + " Minutes"
+  }
+}
+timeConvert(134)
+```
 
 Afternoon: 
 
