@@ -1,7 +1,14 @@
 # Day 4 - AUDIO / VIDEO TAGS AND REVIEW
 
 ## Daily Journal
+Eyyy look at that!
 
+A whole challenge with no major setbacks or untold errors!
+You gotta imagine that's a step in the right direction.  The MVC template remains incredibly valuable for debugging a project.  Cuz, to be sure, we had plenty of errors.  But all of those errors were easily trackable to their root document, and 90% of them always boiled down to simple errors that were fixable in a single line.
+
+All of these challenges collectively offer a complete template for how to handle all the basics of the MVC pattern, and I will continue to refer back to them whenever I encounter an unusual error.
+
+So here's hoping that tomorrow's checkpoint will go as smoothly as today's challenge did!
 
 ## Daily Challenges
 
@@ -19,7 +26,7 @@ function timeConvert(time) {
 timeConvert(134)
 ```
 
-Afternoon: 
+Afternoon: Partner Challenge: https://github.com/ThomasSwisher/music-is-fun
 
 ### Read *Asynchronous Code > What is REST*
 
