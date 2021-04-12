@@ -1,13 +1,11 @@
-# Day 1 - 
+# Day 5 - END OF WEEK 5 
 
 ## Daily Journal
 
 
 ## Daily Challenges
 
-Morning: Checkpoint IV Review: 
+Morning: 
 
-Afternoon: 
-
-### Read **
+Afternoon: HACKATHON I
 
