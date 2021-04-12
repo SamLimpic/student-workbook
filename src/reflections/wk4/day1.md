@@ -9,7 +9,7 @@ Turns out, the DnD 5e Players Handbook exists as an entire API, and the me of 2 
 
 ## Daily Challenges
 
-Morning: Checkpoint II Review: 
+Morning: Checkpoint III Review: 
 
 Afternoon: https://github.com/SamLimpic/bad-trivia
 
