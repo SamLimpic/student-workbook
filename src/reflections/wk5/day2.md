@@ -1,13 +1,17 @@
 # Day 2 - USING AN ORM TO INTERACT WITH A DATABASE
 
 ## Daily Journal
+Eyyyy I remember French better than I thought!
 
+New terminology notwithstanding, copy / pasting notwithstanding, I have a much better initial grasp of this than I did when we were initially dealing with APIs.  It's still weird looking, and I'll definitely need to duplicate the layout of all of this for a bit, but it is refreshing to look over these pages and have a decent understanding of what I'm looking at, even though we're using new terms and syntax.
+
+It also helps that we're simply duplicating an existing project with a new framework.  We don't have to focus so much on the 'what' and can instead concentrate on our new 'how'.
 
 ## Daily Challenges
 
 Morning: https://github.com/SamLimpic/node-day-1 (updated)
 
-Afternoon: 
+Afternoon: https://github.com/SamLimpic/gregs-list-node & https://github.com/SamLimpic/gregs-list-api (updated)
 
 ### Read * Servers with Node/Express > MongoDb Relationships*
 
