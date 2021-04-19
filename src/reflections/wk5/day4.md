@@ -16,7 +16,17 @@ That will surely not cause any issues whatsoever...
 ## Daily Challenges
 
 Morning: 
+``` JS
+function isTriangle(num1, num2, num3) {
+  if (num1 < (num2 + num3) && num2 < (num1 + num3) && num3 < (num1 + num2)) {
+    return true
+  } else {
+    return false
+  }
+}
 
+isTriangle(1, 2 , 3)
+```
 Afternoon: Hack-A-Thon I Sprint Planning Session
 
 ### Read *Servers with Node/Express > Virtuals in Mongoose*
