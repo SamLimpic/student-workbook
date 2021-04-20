@@ -5,9 +5,9 @@
 
 ## Daily Challenges
 
-Morning: 
+Morning: https://github.com/SamLimpic/vue-vendor
 
-Afternoon: 
+Afternoon: https://github.com/SamLimpic/vue-playground
 
 ### Read *Frontend Frameworks with Vue3 > Understanding Component Based Architecture*
 
