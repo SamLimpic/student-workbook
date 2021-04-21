@@ -28,7 +28,7 @@ function repeaterCode(arr) {
 }
 ```
 
-Afternoon: 
+Afternoon: https://github.com/SamLimpic/spellbook-vue
 
 ### Read *Frontend Frameworks with Vue3 > How to use Props in Vue*
 1. What are props?
