@@ -7,6 +7,7 @@ I really find this aspect of Javascript to be really interesting.  It's cool to 
 ## Daily Challenges
 
 Morning:
+``` JS
 function evenOrOdd() {
     if (num % 2 == 0) {
         console.log("even")
@@ -14,6 +15,7 @@ function evenOrOdd() {
         console.log("odd")
     }
 }
+```
 
 Afternoon: https://github.com/SamLimpic/super-fight
 

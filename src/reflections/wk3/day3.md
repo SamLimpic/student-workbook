@@ -10,6 +10,7 @@ Today's challenge was a fun one too!  I'm a bit disappointed I didn't have the t
 ## Daily Challenges
 
 Morning: 
+```JS
 function isPalindrome(str) {
 let noSpace = (str.split(" ").join("")).toLowerCase()
 for(let i = 0; i < Math.floor(noSpace.length / 2); i++) {
@@ -21,6 +22,7 @@ for(let i = 0; i < Math.floor(noSpace.length / 2); i++) {
 return true
 }
 isPalindrome("aibohphobia")
+```
 
 Afternoon: https://github.com/SamLimpic/grugs-list
 
