@@ -1,11 +1,6 @@
 # Day 5 - END WEEK 6
 
 ## Daily Journal
+AINT NOBODY GOT TIME FOR THAT
 
-
-## Daily Challenges
-
-Morning: 
-
-Afternoon: 
-
+## CHECKPOINT V
