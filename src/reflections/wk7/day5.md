@@ -2,5 +2,6 @@
 
 ## Daily Journal
 
+AIN'T NOBODY GOT TIME FOR THAT
 
 ## CHECKPOINT VI
