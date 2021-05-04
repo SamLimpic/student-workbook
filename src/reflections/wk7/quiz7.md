@@ -45,7 +45,7 @@ When using an input component, you can set the data to a v-model and utilize it 
 <!-- enter you answer in the space below -->
 
 ```
-To 'watch' an element for changes
+To 'watch' an element for changes and trigger a function on an event
 ```
 
 **7.** Which Vue attributes(directives) could you use to conditionally render elements on a page?
