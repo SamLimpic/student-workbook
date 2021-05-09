@@ -1,0 +1,7 @@
+# Day 5 - END WEEK 8
+
+## Daily Journal
+
+AIN'T NOBODY GOT TIME FOR THAT
+
+## CHECKPOINT VI
