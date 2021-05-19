@@ -14,9 +14,9 @@ Admittedly, this could be my hubris talking... we'll see how Day 3 treats us...
 
 ## Daily Challenges
 
-Morning:
+Morning: https://github.com/SamLimpic/c-sharp-intro
 
-Afternoon:
+Afternoon: https://github.com/SamLimpic/cs-gregslist
 
 ### Read "Foundations of C# > C# List"
 

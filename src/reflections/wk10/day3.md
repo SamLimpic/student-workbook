@@ -2,11 +2,19 @@
 
 ## Daily Journal
 
+Ugh... Back to the Firehose method I see...
+
+At least by this point we're used to it...
+
+Truthfully, the deluge of unfamiliar syntax was less overwhelming this time around, but I still found it problematic having to deal with the pile of minor typos and cascading error messages until around 4pm.
+
+Still, I can see the utility of SQL once it stops being such a &$%\*@ to put together... Hopefully that day is closer than our Final...
+
 ## Daily Challenges
 
 Morning:
 
-Afternoon:
+Afternoon: https://github.com/SamLimpic/cs-knights-tale
 
 ### Read "Foundations of C# > C# Enum's"
 
