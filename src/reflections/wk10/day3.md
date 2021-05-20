@@ -12,7 +12,7 @@ Still, I can see the utility of SQL once it stops being such a &$%\*@ to put tog
 
 ## Daily Challenges
 
-Morning:
+Morning: https://github.com/SamLimpic/c-sharp-intro
 
 Afternoon: https://github.com/SamLimpic/cs-knights-tale
 

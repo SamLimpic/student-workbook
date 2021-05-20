@@ -4,7 +4,7 @@
 
 ## Daily Challenges
 
-Morning:
+Morning: https://github.com/SamLimpic/c-sharp-intro
 
 Afternoon:
 
@@ -15,9 +15,8 @@ Afternoon:
    Information in a row defines the properties of each object
 
 2. Demonstrate the basic structure for creating a new table called characters with the values name, age, description as strings, and an int id.
-
-|--NAME-|-AGE--|--DESC--|-ID-|
-| "Sam" | "29" | "Dope" | 42 |
+   |--NAME-|-AGE--|--DESC--|-ID-|
+   | "Sam" | "29" | "Dope" | 42 |
 
 3. What is the difference between the following statements:
    DELETE FROM table_name <-- Removes an item FROM a table
