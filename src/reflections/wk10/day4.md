@@ -2,11 +2,21 @@
 
 ## Daily Journal
 
+Honestly, I can't tell at this point if I prefer C# to Node.js
+
+They seem fairly similar, when it comes to setting up the back end, and C# may have a slight edge in that its syntax is a bit more cookie-cutter, which allows you to construct a backend framework and reapply it to different elements much easier.
+
+Course, Node is also fairly reproducable, but it seems that C# may have a slight edge on it in that respect.
+
+Still, I feel like I won't have a great grasp of it until I get the opportunity to use it for a Full-Stack application to see how it integrates into Vue...
+
+From the sound of it, this week's optional Checkpoint may very well give me that opportunity to test just that.
+
 ## Daily Challenges
 
 Morning: https://github.com/SamLimpic/c-sharp-intro
 
-Afternoon:
+Afternoon: https://github.com/SamLimpic/cs-all-spell
 
 ### Read "Dotnet WebAPI's > Welcome to SQL"
 
