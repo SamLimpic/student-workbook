@@ -6,7 +6,7 @@
 
 Morning:
 
-Afternoon:
+Afternoon: https://github.com/SamLimpic/cs-auth
 
 ### Read "Dotnet WebAPI's > SQL Injection"
 

@@ -6,7 +6,7 @@
 
 Morning:
 
-Afternoon:
+Afternoon: https://github.com/SamLimpic/cs-all-spell
 
 ### Read "Dotnet WebAPI's > Relationships"
 
