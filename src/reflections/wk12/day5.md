@@ -1,7 +1,7 @@
-# Day 5 - END WEEK 10
+# Day 5 - END WEEK 12
 
 ## Daily Journal
 
 AIN'T NOBODY GOT TIME FOR THAT
 
-## HACK-A-THON II
+## FINAL PROJECT
